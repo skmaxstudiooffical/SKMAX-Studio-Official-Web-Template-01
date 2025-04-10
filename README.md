@@ -3,7 +3,7 @@
 ## Powered By SKMAX Studio Official™
 
 ![telegram100px](https://user-images.githubusercontent.com/118368174/230618738-04ac90f9-165c-45a0-8c6c-9da772e334f7.png) 
-### Telegram - [@SKMAX_Studio](https://t.me/SKMAX_Studio)             
+### Telegram - [@SKMAX_Studio](https://t.me/skmaxstudiooffical)             
 
 ![gmail100px](https://user-images.githubusercontent.com/118368174/230618694-9c9c1687-2505-45bb-8de9-0ee1a6657513.png)
 ### Gmail - skmaxstudiooffical@gmail.com
@@ -148,4 +148,4 @@
 ## Home Page - Full ScreenShot
  ![Screenshot 2023-04-07 at 13-40-15 Home - SKMAX Studio Official](https://user-images.githubusercontent.com/118368174/230572379-09571b16-b7e8-46d6-8c2a-8303b4493814.png)
  
- ### [©SKMAX Studio Official™](https://t.me/SKMAX_Studio)
+ ### [©SKMAX Studio Official™](https://t.me/skmaxstudiooffical
