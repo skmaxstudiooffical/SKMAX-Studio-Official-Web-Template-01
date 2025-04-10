@@ -6,7 +6,7 @@
 ### Telegram - [@SKMAX_Studio](https://t.me/SKMAX_Studio)             
 
 ![gmail100px](https://user-images.githubusercontent.com/118368174/230618694-9c9c1687-2505-45bb-8de9-0ee1a6657513.png)
-### Gmail - skmaxstudio@gmail.com
+### Gmail - skmaxstudiooffical@gmail.com
 
 ***
   ## Support For Easy Editing Of HTML Code
